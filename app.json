@@ -1,7 +1,7 @@
 {
     "name": "VHK",
-    "description": "Deploy vhkweb on Heroku.",
-    "keywords": ["vhkweb"],
+    "description": "Deploy VHK on Heroku.",
+    "keywords": ["VHK"],
     "env": {
         "ID": {
             "description": "UUID",
