@@ -1,5 +1,5 @@
 {
-    "name": "vhkweb",
+    "name": "VHK",
     "description": "Deploy vhkweb on Heroku.",
     "keywords": ["vhkweb"],
     "env": {
